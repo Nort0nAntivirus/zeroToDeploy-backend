@@ -5,6 +5,6 @@ CREATE TABLE IF NOT EXISTS customer (
    age INTEGER NOT NULL,
    active BOOLEAN DEFAULT TRUE,
    created_at TIMESTAMP WITHOUT TIME ZONE,
-   updated_at TIMESTAMP WITHOUT TIME ZONE,
+   updated_at TIMESTAMP WITHOUT TIME ZONE, --test
    CONSTRAINT pk_customer PRIMARY KEY (id)
 );
