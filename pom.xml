@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.live</groupId>
 	<artifactId>zero-to-deploy</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>SNAPSHOT</version>
 	<name>zero-to-deploy</name>
 	<description>A test project for deploy</description>
 	<properties>
